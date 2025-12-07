@@ -10,7 +10,7 @@ private:
     int pil;
 
 public:
-    // Yapici fonksiyon
+    
     Drone(int y, int h, int ys, int p) {
         yuk = y;
         hiz = h;
@@ -63,3 +63,4 @@ int main() {
 
     return 0;
 }
+
