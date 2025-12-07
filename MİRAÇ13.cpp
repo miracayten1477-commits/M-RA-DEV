@@ -10,7 +10,8 @@ void bolum_kontrol(int sayi) {
 }
 
 int main() {
-    bolum_kontrol(12);  // Kalan: 2
-    bolum_kontrol(20);  // tam bölünür
+    bolum_kontrol(12);  
+    bolum_kontrol(20);  
     return 0;
 }
+
